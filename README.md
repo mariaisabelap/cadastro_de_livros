@@ -12,7 +12,7 @@ Os livros cadastrados aparecem em uma tabela e também podem ser **excluídos** 
 * Buscar livro pelo título
 * Apagar livro da lista
 
-## Tecnologias usadas
+## Tecnologias utilizadas
 
 * HTML
 * CSS
